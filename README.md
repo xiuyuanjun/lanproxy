@@ -1,8 +1,8 @@
 ## lanproxy多用户版本（运营版）上线，欢迎体验
 
-https://nat.io2c.com
+https://nat.nioee.com
 
-## 技术交流QQ群 1067424330
+## 技术交流QQ群 851869252
 
 lanproxy
 --------
@@ -13,7 +13,7 @@ lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿
 
 ### 相关地址
 
-- 主页 https://lan.io2c.com
+- 主页 https://nat.nioee.com
 - lanproxy-go-client https://github.com/ffay/lanproxy-go-client
 - 发布包下载地址 https://github.com/ffay/lanproxy/releases
 
